@@ -1,7 +1,4 @@
 import Foundation
-//import PlaygroundSupport
-
-//PlaygroundPage.current.needsIndefiniteExecution = true
 
 let workItem = DispatchWorkItem {
     print(Thread.isMainThread ? 
